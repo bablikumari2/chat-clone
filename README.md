@@ -14,4 +14,4 @@ Node js.
 ##  Join room :
 
 (/client/public/Image/join.png)
-https://github.com/bablikumari2/chat-clone/blob/main/client/public/Image/join.png?raw=true
+ ![Screenshot (1249)](https://github.com/bablikumari2/chat-clone/blob/main/client/public/Image/join.png?raw=true)
