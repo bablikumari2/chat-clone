@@ -11,7 +11,9 @@ Express
 Socket-io
 Node js.
 
-##  Join room :
+#  Join room :
 
-(/client/public/Image/join.png)
  ![Screenshot (1249)](https://github.com/bablikumari2/chat-clone/blob/main/client/public/Image/join.png?raw=true)
+
+# Chatting Room
+![Screenshot (1250)](https://github.com/bablikumari2/chat-clone/blob/main/client/public/Image/chatting%20room.png?raw=true)
